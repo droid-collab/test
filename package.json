@@ -2,7 +2,7 @@
   "name": "mun-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://droid-collab.github.io/mun-website"
+  "homepage": "https://droid-collab.github.io/mun-website",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
