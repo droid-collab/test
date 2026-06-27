@@ -1,6 +1,6 @@
-# MUN VI — Model United Nations, Sixth Edition
+# WISMUN
 
-A React website for the 6th Edition of the Model United Nations conference.
+A React website for the WISMUN website
 
 ## Pages
 
@@ -69,4 +69,3 @@ npx gh-pages -d build
 
 ---
 
-MUN VI — Where global minds converge.
